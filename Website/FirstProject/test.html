@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+.parent {
+  width:250px;
+  height:250px;
+  background-color:#CCCCCC;
+  position:relative;
+}
+ 
+.child {
+  width:100px;
+  height:100px;
+  background-color:#999999;
+  position:absolute;
+  bottom:0px;
+  right:0px;
+}
+</style>
+
+<body>
+<script>
+$(document).ready(function(){
+    $(".parent").click(function(){
+        $(".child").animate(/*{left:'854px'}*/ {right:'518px'}
+		 if ($(".chil").position().top >= 250) {
+                $("#one").animate({
+                    top: '50px'
+                }, 200, anim);
+            }
+            else {
+                $("#one").animate({
+                    top: '+=50'
+                }, 200, anim);
+            }
+        }
+    });
+   $("#second-button").click(function(){
+        $("#second-div").animate({top:'400px'});
+		
+    });
+	
+    
+});
+</script>
+<div class="parent">
+   <div class="child"></div>
+</div>
+</body>
+</html>

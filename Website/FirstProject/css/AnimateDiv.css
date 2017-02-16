@@ -1,0 +1,85 @@
+#first-div
+	{
+		 background: linear-gradient(orange, white, green); 
+		height: 500px;
+		width: 500px;
+		border: 1px solid #000;
+		margin: 0 auto;
+		overflow:hidden;
+		border-radius:20px;
+		<!...background-image: url(/Website/Images/flag.jpg);...>
+    background-size: contain;
+	margin-top:30px;
+		
+	}
+	#second-div
+	{
+	    background-color: #ffffff;
+	    height: 100px;
+        width: 100px;
+        border:1px;
+	    position:fixed;
+	    padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+        background: linear-gradient(orange, white, green); 
+	   overflow:hidden;
+	   clear:both;
+	   /* background-image: url(/Website/Images/religions.jpg); */
+          background-size: contain;
+	    border-radius:20px;
+	}
+	#button1
+	{
+		height: 100px;
+		width: 500px;
+		
+		margin: 0 auto;
+		
+		margin-top:15px;
+		padding:10px 0px 0px 20px;
+		
+		
+	}
+	 #first-button
+	 {
+		 padding:15px 25px;
+		 	border-radius:10px;
+			margin-left:60px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 2px 2px 5px #FF9800;
+    background-color: chocolate;
+	
+	
+    
+	}
+	#second-button
+	{
+		padding:15px 55px 15px 25px;
+		border-radius:10px;
+		margin-left:20px;
+	size:30px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 2px 2px 5px rgb(215, 40, 239);
+    background-color: crimson;
+        
+			}
+#third-button
+{
+	padding:15px 55px 15px 25px;
+		border-radius:10px;
+		margin-left:20px;
+	size:30px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 2px 2px 5px rgb(215, 40, 239);
+    background-color: crimson;
+}
+			

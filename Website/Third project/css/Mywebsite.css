@@ -1,0 +1,110 @@
+.row 
+{ 
+    background-color: #3E454B;
+    /*padding: 10px 0px 0px 60px;*/
+    padding: 17px 0px 10px 70px;
+    font-size: 30px;
+    color: white;
+}
+.right-nav
+{
+    float:right;
+    font-size: 15px;
+
+}
+.right-nav li 
+{
+    float: left;
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right:10px; 
+    de
+}
+li:hover
+{
+    cursor: pointer;
+}
+.carousel-indicators li
+{
+  list-style-type: none;  
+}
+#Carousel{
+    width: 100%;
+    margin-bottom: 3px;
+}
+.item active{
+   width: 100%;
+}
+.item{
+   width: 100%;
+}
+#category{
+    background-color:#1D1D1D;
+}
+#category img{
+    height:130px;
+    width: 300px;
+    padding-bottom: 20px;
+}
+#cols-div ,p
+{
+    font-size: 15px;
+}
+ .link-lists a
+{
+    float:left;
+    clear: both;
+    
+}
+#cols-div1 img
+{
+    display: block;
+  height:80px;
+    width: 60px;
+    float: left; 
+}
+
+#text p{
+    display: inline;
+}
+
+.col1{
+    margin-left: -40px;
+    padding-left: 10px;
+}
+#attractions-div1 img{
+    height:130px;
+    width: 300px;
+}
+#attractions-div2 img{
+   height:130px;
+    width: 300px; 
+}
+#attractions-div3 img
+{
+    height:130px;
+    width: 300px;  
+}
+#footer{
+   background-color: #000000; 
+}   
+.mapholder{
+    height: 100px;
+    width: 100px;
+}
+#footer-col2{
+    
+   display: block;;
+}
+#footer-col2 p{
+    display: inline;
+}
+.arrow {
+    float: right;
+    border: 1-x solid blue;
+}
+.arrow:hover
+{
+    cursor: pointer;
+}
+

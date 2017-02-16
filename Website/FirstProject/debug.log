@@ -1,0 +1,7 @@
+[0129/154448:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0130/150253:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0201/132037:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0201/151530:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0204/130112:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0204/130113:ERROR:file_io.cc(30)] read: expected 36, observed 0
+[0205/205225:ERROR:crash_report_database_win.cc(426)] unexpected header
